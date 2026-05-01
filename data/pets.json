@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p_slime",
+    "name": "スライム",
+    "baseAtk": 3,
+    "price": 80,
+    "description": "ぷるぷるの友"
+  },
+  {
+    "id": "p_wolf",
+    "name": "オオカミ",
+    "baseAtk": 15,
+    "price": 800,
+    "description": "忠実な相棒"
+  },
+  {
+    "id": "p_phoenix",
+    "name": "フェニックス",
+    "baseAtk": 80,
+    "price": 12000,
+    "description": "不死鳥"
+  },
+  {
+    "id": "p_dragon",
+    "name": "ドラゴン",
+    "baseAtk": 200,
+    "price": 80000,
+    "description": "伝説の竜"
+  }
+]
