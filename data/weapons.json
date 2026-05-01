@@ -1,0 +1,30 @@
+[
+  {
+    "id": "w_wooden_sword",
+    "name": "木の剣",
+    "baseAtk": 5,
+    "price": 100,
+    "description": "初心者向けの剣"
+  },
+  {
+    "id": "w_iron_sword",
+    "name": "鉄の剣",
+    "baseAtk": 20,
+    "price": 1000,
+    "description": "標準的な剣"
+  },
+  {
+    "id": "w_flame_blade",
+    "name": "炎の刃",
+    "baseAtk": 60,
+    "price": 8000,
+    "description": "炎を纏う剣"
+  },
+  {
+    "id": "w_thunder_spear",
+    "name": "雷槍",
+    "baseAtk": 150,
+    "price": 50000,
+    "description": "雷の力を秘めた槍"
+  }
+]
