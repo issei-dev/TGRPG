@@ -1,0 +1,70 @@
+<!-- File: index.html -->
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Time Grows RPG</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>⏳ Time Grows RPG</h1>
+    <p class="sub">時間が経つほど強くなるRPG</p>
+  </header>
+
+  <main>
+    <section class="panel">
+      <h2>ステータス</h2>
+      <div class="grid">
+        <div>経過時間: <span id="elapsed">0</span> 分</div>
+        <div>所持ポイント: <span id="points">0</span></div>
+        <div>総攻撃力: <span id="totalAtk">0</span></div>
+        <div>毎分獲得: <span id="rate">0</span> pt/分</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>主人公</h2>
+      <div class="grid">
+        <div>Lv: <span id="heroLv">1</span> / 9999</div>
+        <div>攻撃力: <span id="heroAtk">10</span></div>
+        <div>EXP: <span id="heroExp">0</span> / <span id="heroNeed">2</span></div>
+        <div>
+          <button id="btnLevelUp">レベルアップ（ポイント消費）</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>装備中の武器（最大2）</h2>
+      <div id="equippedWeapons" class="equipped"></div>
+      <h2>装備中のペット（最大3）</h2>
+      <div id="equippedPets" class="equipped"></div>
+    </section>
+
+    <section class="panel">
+      <h2>所持している武器</h2>
+      <div id="ownedWeapons" class="list"></div>
+
+      <h2>所持しているペット</h2>
+      <div id="ownedPets" class="list"></div>
+    </section>
+
+    <section class="panel">
+      <h2>ショップ（武器）</h2>
+      <div id="shopWeapons" class="list"></div>
+
+      <h2>ショップ（ペット）</h2>
+      <div id="shopPets" class="list"></div>
+    </section>
+
+    <section class="panel">
+      <h2>システム</h2>
+      <button id="btnReset">最初からやり直す</button>
+    </section>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>
