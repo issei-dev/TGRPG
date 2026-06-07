@@ -28,7 +28,7 @@
     "description": "総攻撃力を2.00倍にする伝説の竜"
   },
   {
-    "id": "p_dragon",
+    "id": "p_kirin",
     "name": "麒麟",
     "baseMultiplier": 5.00,
     "price": 150000,
