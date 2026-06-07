@@ -26,5 +26,12 @@
     "baseMultiplier": 2.00,
     "price": 80000,
     "description": "総攻撃力を2.00倍にする伝説の竜"
+  },
+  {
+    "id": "p_dragon",
+    "name": "麒麟",
+    "baseMultiplier": 5.00,
+    "price": 150000,
+    "description": "総攻撃力を2.00倍にする伝説の竜"
   }
 ]
