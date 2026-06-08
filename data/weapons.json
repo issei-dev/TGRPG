@@ -26,5 +26,20 @@
     "baseAtk": 150,
     "price": 50000,
     "description": "雷の力を秘めた槍"
+  },
+  {
+    "id": "w_brave_sword",
+    "name": "ブレイブソード",
+    "baseAtk": 500,
+    "price": 5000000,
+    "description": "勇気あるものに力を貸す剣"
+  },
+  {
+    "id": "w_gun01",
+    "name": "雷獣銃帝",
+    "baseAtk": 800,
+    "price": 35000000,
+    "description": "雷の力を秘めた槍"
   }
+  
 ]
