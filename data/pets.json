@@ -35,14 +35,14 @@
     "description": "総攻撃力を5.00倍にする幻の幻獣"
   },
   {
-    "id": "p_phoenix",
+    "id": "p_phoenixgx",
     "name": "フェニックスGx",
     "baseMultiplier": 8.00,
     "price": 1200000,
     "description": "フェニックスの5倍の強さの不死鳥"
   },
   {
-    "id": "p_dragon",
+    "id": "p_dragongx",
     "name": "ドラゴンGx",
     "baseMultiplier": 10.00,
     "price": 8000000,
