@@ -47,5 +47,26 @@
     "baseMultiplier": 10.00,
     "price": 8000000,
     "description": "ドラゴンの5倍の強さの伝説の竜"
+  },
+    {
+    "id": "p_phoenixark",
+    "name": "フェニックスArk",
+    "baseMultiplier": 24.00,
+    "price": 6000000,
+    "description": "24倍の強さの不死鳥"
+  },
+  {
+    "id": "p_dragonark",
+    "name": "ドラゴンArk",
+    "baseMultiplier": 30.00,
+    "price": 40000000,
+    "description": "30倍の強さの伝説の竜"
+  },
+  {
+    "id": "p_kirinark",
+    "name": "麒麟Ark",
+    "baseMultiplier": 36.00,
+    "price": 100000000,
+    "description": "36倍の強さの幻の幻獣"
   }
 ]
