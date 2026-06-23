@@ -68,5 +68,26 @@
     "baseMultiplier": 36.00,
     "price": 100000000,
     "description": "36倍の強さの幻の幻獣"
+  },
+   {
+    "id": "p_phoenixveil",
+    "name": "フェニックスVeil",
+    "baseMultiplier": 72.00,
+    "price": 72000000,
+    "description": "72倍の強さの不死鳥"
+  },
+  {
+    "id": "p_dragonveil",
+    "name": "ドラゴンVeil",
+    "baseMultiplier": 90.00,
+    "price": 480000000,
+    "description": "90倍の強さの伝説の竜"
+  },
+  {
+    "id": "p_kirinveil",
+    "name": "麒麟Veil",
+    "baseMultiplier": 108.00,
+    "price": 1200000000,
+    "description": "36倍の強さの幻の幻獣"
   }
 ]
